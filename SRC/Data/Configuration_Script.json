@@ -1,0 +1,60 @@
+{
+    "General":
+    {
+        "__Comment":"Funciones en desarrollo",
+
+        "CheckUserConfiguration":0,
+        "SaveDatabaseData":0,
+        "SaveLog":0,
+        "Debugger":0
+    },
+    "Database":
+    {
+        "recent":
+        {
+            "ID":
+            {
+                "1":"Route/TEST/test.sql",
+                "2":"Route/TEST/test2.sql"
+            }
+        },
+        "actually":
+        {
+            "Host":"localhost", 
+            "User":"TEST", 
+            "Pass":"TEST", 
+            "DB":"Test", 
+            "Charset":"utf8mb4",
+            "Status":1
+        }
+    },
+    "Search":
+    {
+        "Date":
+        {
+            "09-21-2020":
+            {
+
+            }
+        }
+    },
+    "Experimental":
+    {
+        "__Comment":"Funciones en desarrollo",
+
+        "CustomSQL":
+        {
+            "status":0
+        },
+
+        "DataBase":
+        {
+            "Structure":
+            {
+            },
+            "NewStructure":
+            {
+            }
+        }
+    }
+}

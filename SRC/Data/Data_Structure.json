@@ -1,0 +1,30 @@
+{
+    "search":
+    {
+        "data":
+        {
+            "key":
+            {
+                "column":"ID",
+                "value":[1,2,3,4]
+            }
+        },
+        
+        "ShowData":"Name, Age",
+
+        "tables":
+        [
+            "usuarios"
+        ]
+    },
+    "AditionalSettings":
+    {
+        "LimitSearch":null,
+        "TypeData":null,
+        "CaseSensitive":null
+    },
+    "automatic":
+    {
+        "search":{}
+    }
+}
